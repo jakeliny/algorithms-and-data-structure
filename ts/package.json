@@ -1,0 +1,22 @@
+{
+  "name": "algorithms and data structure  study",
+  "version": "1.0.0",
+  "description": "algorithms and data structure study",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "algorithms",
+    "data structure",
+    "study"
+  ],
+  "author": "Jakeliny Gracielly",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.5",
+    "ts-jest": "^29.4.1",
+    "typescript": "^5.6.3"
+  }
+}
